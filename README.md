@@ -48,3 +48,7 @@ cargo test --no-run --target x86_64-pc-windows-gnu
 cargo build --release --target x86_64-pc-windows-gnu
 # Output: target/x86_64-pc-windows-gnu/release/RDPCenter.exe
 ```
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
